@@ -1,6 +1,0 @@
-word	frequency	wordclass
-hat	143	noun
-cat	324	noun
-sat	410	verb
-old	892	adjective
-young -1 adjective
